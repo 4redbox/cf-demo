@@ -1,6 +1,9 @@
 {
 "AWSTemplateFormatVersion": "2010-09-09",
 "Parameters" : {
+  {
+  "NameOfTemplateParameter" : "DemoStack",
+  }
   "InstanceTypeParameter" : {
     "Type" : "String",
     "Default" : "t2.micro",
